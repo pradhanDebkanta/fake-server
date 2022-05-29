@@ -1,13 +1,6 @@
 {
   "orderDetails": [
     {
-      "id": "5e2940fdd3f76a9bfa29e5ff",
-      "customer_name": "Sears Warrennnn",
-      "customer_email": "searswarren@kyaguru.commmm",
-      "product": "Product 2",
-      "quantity": 9
-    },
-    {
       "id": "5e2940fdc6bfb51656a1f655",
       "customer_name": "Alissa Whitley",
       "customer_email": "alissawhitley@kyaguru.com",
